@@ -23,10 +23,11 @@ Certifique-se de testar seu programa com esses exemplos e com outros casos poss�
 | Toyota          |                  |
 | Corolla         |                  |
 | 2000            | Veículo antigo   |
-|-----------------|------------------|
+|                 |                  |
 | Honda           |                  |
 | Civic           |                  |
 | 2005            | Veículo novo     |
+|                 |                  |
 | Ford            |                  |
 | Fiesta          |                  |
 | 1999            | Veículo antigo   |
